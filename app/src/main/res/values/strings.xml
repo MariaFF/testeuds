@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TesteUds</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<!--    <string name=""></string>-->
+
+    <!--TELA DE CADASTRO-->
+    <string name="fragment_register_name">Nome</string>
+    <string name="fragment_register_email">Email</string>
+    <string name="fragment_register_password">Senha</string>
+    <string name="fragment_register_password1">Confirmar senha</string>
+
+
+    <string name="fragment_register_bt_register">Cadastrar</string>
+    <string name="fragment_bt_login">Logar</string>
+
+</resources>

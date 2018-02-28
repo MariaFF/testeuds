@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Prueba Uds</string>
+
+
+    <string name="fragment_register_name">nombre</string>
+    <string name="fragment_register_email">Email</string>
+    <string name="fragment_register_password">contraseña</string>
+    <string name="fragment_register_password1">Confirmar contraseña</string>
+
+
+    <string name="fragment_register_bt_register">registro</string>
+    <string name="fragment_bt_login">Log</string>
+
+
+</resources>
