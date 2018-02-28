@@ -2,8 +2,6 @@
     <string name="app_name">Teste Uds</string>
 
 
-<!--    <string name=""></string>-->
-
     <!--TELA DE CADASTRO-->
     <string name="fragment_register_name">Nome</string>
     <string name="fragment_register_email">Email</string>
@@ -14,6 +12,5 @@
     <string name="fragment_register_bt_register">Cadastrar</string>
     <string name="fragment_bt_login">Logar</string>
 
-    <string name="tabs_register">Cadastrar</string>
-    <string name="tabs_login">Login</string>
+
 </resources>

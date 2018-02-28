@@ -5,8 +5,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
@@ -14,7 +12,6 @@ import android.widget.EditText;
 
 import testeuds.maria.com.br.testeuds.R;
 import testeuds.maria.com.br.testeuds.activity.ControlActivity;
-import testeuds.maria.com.br.testeuds.activity.LoginActivity;
 import testeuds.maria.com.br.testeuds.dao.PersonDao;
 
 /**

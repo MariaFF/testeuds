@@ -50,6 +50,7 @@
            android:layout_marginRight="30dp"
            android:layout_marginLeft="30dp"
            android:layout_marginBottom="5dp"
+           android:inputType="numberPassword"
            android:drawableLeft="@drawable/ic_lock_outline_black_24dp"
            android:hint="@string/fragment_register_password"/>
 
@@ -63,6 +64,7 @@
            android:layout_marginRight="30dp"
            android:layout_marginLeft="30dp"
            android:layout_marginBottom="5dp"
+           android:inputType="numberPassword"
            android:drawableLeft="@drawable/ic_lock_outline_black_24dp"
            android:hint="@string/fragment_register_password1"/>
 

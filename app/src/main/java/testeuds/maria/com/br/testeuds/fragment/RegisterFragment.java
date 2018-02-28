@@ -1,12 +1,9 @@
 package testeuds.maria.com.br.testeuds.fragment;
 
 
-import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v7.app.ActionBar;
-import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -16,7 +13,6 @@ import android.widget.Toast;
 
 import testeuds.maria.com.br.testeuds.R;
 import testeuds.maria.com.br.testeuds.activity.ControlActivity;
-import testeuds.maria.com.br.testeuds.activity.MainActivity;
 import testeuds.maria.com.br.testeuds.dao.PersonDao;
 import testeuds.maria.com.br.testeuds.modelo.Person;
 

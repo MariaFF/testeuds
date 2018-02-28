@@ -7,8 +7,7 @@
     <string name="fragment_register_password">contraseña</string>
     <string name="fragment_register_password1">Confirmar contraseña</string>
 
-
-    <string name="fragment_register_bt_register">registro</string>
+    <string name="fragment_register_bt_register">Registro</string>
     <string name="fragment_bt_login">Log</string>
 
 
